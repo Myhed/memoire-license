@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "a8de5ba746ccda88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13d768e2045f3ed",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f042d9af8aaa4769",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3c056ae7279b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e88151d7a83aa34a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c05b44c9b810e08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b6f67995c08a5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ed8fddfa5ff6ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db99dd2585c62d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b13d768e2045f3ed",
+  "lastOpenFiles": [
+    "Avant-propos/mes-expériences.md.md",
+    "Présentation-entreprise/Untitled.md",
+    "Remerciements/Untitled.md"
+  ]
+}
